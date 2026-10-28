@@ -7,6 +7,7 @@ A dynamic User Directory Dashboard built with HTML, CSS, and JavaScript. The app
 The purpose of this project is to practice asynchronous JavaScript, API integration, and DOM manipulation by retrieving user information from a public API and displaying it dynamically in a web interface.
 
 ##  Features
+##  Features
 
 - **API Integration:** Fetches user data from the JSONPlaceholder API.
 - **Async/Await:** Handles asynchronous requests using modern JavaScript.
@@ -16,6 +17,7 @@ The purpose of this project is to practice asynchronous JavaScript, API integrat
 - **Responsive Layout:** Uses CSS Flexbox to arrange user cards neatly.
 
 ##  Technologies Used
+##  Technologies Used
 
 - HTML5
 - CSS3
@@ -23,6 +25,7 @@ The purpose of this project is to practice asynchronous JavaScript, API integrat
 - Fetch API
 - JSONPlaceholder API
 
+##  Project Structure
 ##  Project Structure
 
 ```text
@@ -33,6 +36,7 @@ user-directory-dashboard/
 └── problem statement.md
 ```
 
+##  Getting Started
 ##  Getting Started
 
 ### Prerequisites
@@ -56,11 +60,13 @@ user-directory-dashboard/
 4. Ensure you have an internet connection so the application can retrieve data from the API.
 
 ##  API Reference
+##  API Reference
 
 **Endpoint:** `https://jsonplaceholder.typicode.com/users`
 
 The application retrieves a list of sample users in JSON format. Each profile includes a name, email address, and company information.
 
+##  Error Handling Test
 ##  Error Handling Test
 
 To test the error-handling functionality:
@@ -72,6 +78,7 @@ To test the error-handling functionality:
 
 Restore the correct URL after testing.
 
+##  Learning Outcomes
 ##  Learning Outcomes
 
 - Working with the Fetch API and HTTP responses.
