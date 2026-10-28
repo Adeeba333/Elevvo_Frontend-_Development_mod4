@@ -26,11 +26,12 @@ The purpose of this project is to practice asynchronous JavaScript, API integrat
 ##  Project Structure
 
 ```text
-user-directory-dashboard/
+elevvo_internship_mod4/
 ├── index.html
-├── style.css
+├── problem statement.md
+├── README.md
 ├── script.js
-└── problem statement.md
+└── style.css
 ```
 
 ##  Getting Started
