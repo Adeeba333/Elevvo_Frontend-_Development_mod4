@@ -1,0 +1,3 @@
+### Problem Statement
+
+The goal of this project is to build a simple dynamic User Directory dashboard using HTML, CSS, and JavaScript. The application will fetch user information from the JSONPlaceholder API using the Fetch API and async/await. It will show a loading message while the data is being retrieved and display an error message if the request fails. After receiving the data, JavaScript will dynamically create user cards showing each user’s name, email, and company name.
